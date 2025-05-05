@@ -1,12 +1,45 @@
-# React + Vite
+# Prabhakar's Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my personal portfolio website! This site showcases my work, skills, and ways to contact me.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Introduction
 
-## Expanding the ESLint configuration
+Hi, I’m Prabhakar! I am a web developer with a passion for building responsive and user-friendly websites. This portfolio website is designed to showcase my skills, projects, and ways to contact me. Feel free to explore and get to know more about my work.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## Features
+
+- **Home Section**: Overview of who I am.
+- **Skills Section**: A list of technologies and tools I am proficient in.
+- **Projects Section**: A showcase of my past work and projects.
+- **Contact Section**: A form to contact me directly, along with my contact information.
+- **Responsive Design**: The website adapts to different screen sizes, ensuring a great experience on both desktop and mobile.
+
+---
+
+## Technologies Used
+
+- **Frontend**:
+  - React
+  - Tailwind CSS
+  - Flowbite (for UI components)
+  
+- **Backend** (Optional for this project):
+  - Formspree (for handling form submissions)
+  
+- **Version Control**:
+  - Git & GitHub
+
+---
+
+## Contact
+
+- **Email**: [prabhakararunasalam17@gmail.com](mailto:prabhakararunasalam17@gmail.com)
+- **Phone**: +91 7708888802
+- **GitHub**: [GitHub Profile](https://github.com/prabhakararunasalam)
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/prabhakar-a-962688235/)
+
+---
