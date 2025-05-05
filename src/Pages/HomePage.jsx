@@ -16,7 +16,7 @@ const HomePage = () => {
       {/* Main content area */}
       <div className="flex-1 overflow-x-hidden">
         {/* Hero Section */}
-        <div className="bg-[url('assets/homebg.avif')] h-screen bg-cover bg-no-repeat flex flex-col justify-center items-center text-center sm:bg-center px-4">
+        <div className="bg-[url('./public/homeBg.avif')] h-screen bg-cover bg-no-repeat flex flex-col justify-center items-center text-center sm:bg-center px-4">
           <h1 className="text-3xl sm:text-4xl md:text-4xl font-bold text-white">
             {nameText.split("").map((char, index) => (
               <span

@@ -3,7 +3,7 @@ import React from "react";
 const About = () => {
   return (
     <div className="h-screen w-screen bg-gray-800 flex flex-col justify-center items-start text-center px-2 pl-0 sm:pl-56 py-10">
-      <div className="text-white md:w-2/3 sm:w-1/2 md:p-6">
+      <div className="text-white md:w-2/3 sm:w-1/2 md:p-6 lg:ml-30">
         <h2 className="text-3xl font-bold">About Me</h2>
         <p className="text-lg mt-4">
           Hello! I'm Prabhakar Arunachalam, a passionate Full Stack Developer with expertise in building responsive web applications.

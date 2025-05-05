@@ -10,7 +10,7 @@ function Contact() {
       <div className="w-full max-w-6xl bg-gray-400 dark:bg-gray-800 p-8 rounded-lg shadow grid grid-cols-1 md:grid-cols-1 gap-6 md:ml-50 ">
 
         {/* Contact Information Section */}
-        <div className="space-y-6 ml-10 sm:ml-0">
+        <div className="space-y-6 ">
           <h3 className="text-xl font-semibold text-gray-800 dark:text-white mb-4">Contact Information</h3>
           <ul className="space-y-4 text-gray-700 dark:text-gray-300">
             <li className="flex items-center">
