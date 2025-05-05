@@ -6,7 +6,7 @@ const workItems = [
       "Social Media Platform - Full Stack (React, Node.js, Express, MongoDB, Tailwind CSS)",
     description:
       "Developed a full-stack social media app where users can create accounts, post updates, like and comment on posts, and follow other users. Built the frontend with React and Tailwind CSS, and the backend with Node.js, Express, and MongoDB for user authentication, data storage, and real-time updates.",
-    image: "./public/project1.png",
+    image: "/project1.png",
     link: "https://social-media-platform-frontend.vercel.app/",
     backend:"https://social-media-backend-reon.onrender.com/",
     github:
@@ -16,7 +16,7 @@ const workItems = [
     title: "Movie Search Application with React and Tailwind CSS",
     description:
       "Built a responsive frontend app to search and explore movies using the OMDB API. Users can search movies, view detailed info, and manage a list of favorite movies. Features include pagination, movie details view, and a clean UI with Tailwind CSS.",
-    image: "./public/project2.png",
+    image: "/project2.png",
     link: "https://moviesearchapi1.netlify.app/",
     github: "https://github.com/prabhakararunasalam/movie-search",
   },
@@ -24,7 +24,7 @@ const workItems = [
     title: "Recipes App – Backend (Node.js, Express.js, MongoDB)",
     description:
       "Built a RESTful API for managing recipes with full CRUD functionality. Users can create, view, update, and delete recipes using endpoints built with Express.js and MongoDB. Implemented data validation and routing for efficient backend operations. Deployed and tested using Postman.",
-    image: "./public/recipes.png",
+    image: "/recipes.png",
     api: "https://documenter.getpostman.com/view/39189138/2sAYHwKQxN",
     backend: "https://recipiesapp.onrender.com/",
     github: "https://github.com/prabhakararunasalam/RecipiesApp",
