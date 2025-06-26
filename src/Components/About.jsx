@@ -20,7 +20,7 @@ const About = () => {
 
         <div className="mt-6">
           <a
-            href="https://drive.google.com/file/d/1CRwjw7jU2qlUMXQx_mFfjlPD4zAtjTv1/view?usp=sharing" // Replace this link with your Google Docs URL
+            href="https://drive.google.com/file/d/1RNXMf_2YCIjBC-ojcnLXcwi8tOxto7nQ/view?usp=sharing" // Replace this link with your Google Docs URL
             target="_blank"
             rel="noopener noreferrer"
             className="inline-block bg-blue-500 text-white px-6 py-3 rounded-lg text-xl hover:bg-blue-600 transition-all duration-300"
